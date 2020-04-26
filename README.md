@@ -21,7 +21,7 @@ Goal:<br>
 <ul>
 <li>Clean the dataset to include only those rows that have at least information about a certain category<br></li>
 
-<li>Build a clustering model beteween major features namely Rent, Amenities, Roomates, City, Commute etc.<br></li>
+<li>Build a clustering model between major features namely Rent, Amenities, Roommates, City, Commute etc.<br></li>
 
 <li>Understand the attributes students are most inclined to and how we can help navigate the apartment search process<br></li>
 </ul>
